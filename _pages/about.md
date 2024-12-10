@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Final-Year Undergraduate at Fudan University*
+subtitle: <em>Undergraduate at Fudan University</em>
 
 profile:
   align: right
