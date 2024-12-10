@@ -13,7 +13,7 @@ profile:
     <p><a href="mailto:xixianliu0@gmail.com">xixianliu0@gmail.com</a></p>
     <p>📚 Applying for PhD in Fall 2025!</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
