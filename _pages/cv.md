@@ -9,3 +9,5 @@ description:
 toc:
   sidebar: left
 ---
+
+<embed src="../assets/pdf/xixian_resume.pdf" type="application/pdf" width="100%" height="600px" />
