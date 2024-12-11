@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year undergraduate student at Fudan University, majoring in Computer Science and Technology. My academic pursuits are driven by a passion for cutting-edge research, with experience spanning the development of foundation models for molecules and materials at Microsoft Research and the innovative application of large language models.
+I am a final-year undergraduate student at **Fudan University**, majoring in **Computer Science and Technology**. My academic pursuits are driven by a passion for cutting-edge research, with experience spanning the development of foundation models for molecules and materials at **Microsoft Research** and the innovative application of large language models.
 
-In addition, I have contributed to award-winning projects in CPU design and earned accolades in prestigious competitive programming contests. I am excited to further my academic journey and make meaningful contributions to the field of computer science.
+In addition, I have contributed to award-winning projects in CPU design and earned accolades in prestigious competitive programming contests. I am excited to further my academic journey and make meaningful contributions to the field of computer science and AI4Science.
