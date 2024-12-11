@@ -1,18 +1,6 @@
-<!-- ---
+---
 layout: cv
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: xixian_resume.pdf # you can also use external links here
-description:
-toc:
-  sidebar: left
---- -->
-
----
-layout: CV
-permalink: /assets/pdf/xixian_resume.pdf
 title: CV
 nav: true
 nav_order: 5
@@ -21,3 +9,4 @@ description:
 toc:
   sidebar: left
 ---
+
