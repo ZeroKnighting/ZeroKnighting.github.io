@@ -2,7 +2,9 @@
 layout: default
 ---
 {% if page.cv_pdf %}
-  <meta http-equiv="refresh" content="0; url={{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" />
+  <script type="text/javascript">
+    window.location.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
+  </script>
 {% else %}
   <div class="post">
     <header class="post-header">
