@@ -12,7 +12,7 @@ toc:
 
 ---
 layout: CV
-permalink: /CV/
+permalink: /assets/pdf/xixian_resume.pdf
 title: CV
 nav: true
 nav_order: 5
