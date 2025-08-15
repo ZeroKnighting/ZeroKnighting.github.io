@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Undergraduate at Fudan University</em>
+subtitle: <em>Ph.D. student at Mila – Quebec AI Institute</em>
 
 profile:
   align: right
