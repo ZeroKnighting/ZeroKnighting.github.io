@@ -11,13 +11,11 @@ profile:
   more_info: >
     <p><strong>Contact:</strong></p>
     <p><a href="mailto:xixianliu0@gmail.com">xixianliu0@gmail.com</a></p>
-    <p>📚 Applying for PhD in Fall 2025!</p>
+    <p>📚!</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year undergraduate student at **Fudan University**, majoring in **Computer Science and Technology**. My academic pursuits are driven by a passion for cutting-edge research, with experience spanning the development of foundation models for molecules and materials at **Microsoft Research** and the innovative application of large language models.
-
-In addition, I have contributed to award-winning projects in CPU design and earned accolades in prestigious competitive programming contests. I am excited to further my academic journey and make meaningful contributions to the field of machine learning and AI4Science.
+I am a first-year Ph.D. student at Mila – Quebec AI Institute, under the supervision of Prof. Jian Tang. My research interests lie in cutting-edge machine learning and AI4Science, with prior experience in developing foundation models for molecules and materials at Microsoft Research and exploring innovative applications of large language models.
